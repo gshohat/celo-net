@@ -1,9 +1,12 @@
 ![NPM License](https://img.shields.io/npm/l/gcrypto)
 
+
 # celo-net
-React app that funds your Celo testnet account with cUSD.
-It adds Celo Alfajores testnet to metamask.
+React app that funds your Celo testnet account with cUSD.  
+It adds Celo Alfajores testnet to metamask.  
 Connects cUSD contract token to metamask account.
+
+![til](./src/record.gif)
 
 ## Getting started
 yarn
