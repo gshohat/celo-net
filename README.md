@@ -1,5 +1,5 @@
-![NPM License](https://img.shields.io/npm/l/gcrypto)
-
+![NPM License](https://img.shields.io/npm/l/celo-net)
+![NPM Downloads](https://img.shields.io/npm/dw/celo-net)
 
 # celo-net
 React app that funds your Celo testnet account with cUSD.  
