@@ -1,6 +1,6 @@
 {
   "name": "celo-net",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "dependencies": {
     "@metamask/detect-provider": "^1.2.0",
     "@testing-library/jest-dom": "^5.14.1",
