@@ -6,7 +6,7 @@ React app that funds your Celo testnet account with cUSD.
 It adds Celo Alfajores testnet to metamask.  
 Connects cUSD contract token to metamask account.
 
-![til](https://gitlab.com/gshohat/celo-network/-/raw/master/src/record.gif)
+![til](https://gitlab.com/gshohat/celo-network/-/raw/master/assets/record.gif)
 
 ## Getting started
 yarn
