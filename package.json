@@ -23,6 +23,7 @@
     "eject": "react-scripts eject"
   },
   "author": "Gilad Shohat",
+  "homepage": "https://github.com/gshohat/celo-net#readme",
   "license": "MIT",
   "keywords": [
     "crypto",
